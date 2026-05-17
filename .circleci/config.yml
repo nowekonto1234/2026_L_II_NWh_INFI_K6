@@ -20,6 +20,8 @@ jobs:
 
       - run: make test
 
+      - run: make test
+
 workflows:
 
   basic:
